@@ -5,6 +5,6 @@
 - HTML
 
 **Features:**
--  Notification if the entered LISP code has valid parenthesis nesting/closing
+-  `alert()`s if the entered LISP code parenthesis nesting/closing is valid or invalid
 
 [View code/preview on StackBlitz ⚡️](https://stackblitz.com/edit/parenthesis-validator)
